@@ -3,6 +3,9 @@ Clone of [`spoiledchild.com`](https://www.spoiledchild.com)
 
 ``` You have to use a US vpn to open it for some reason ```
 
+[Screen recording 2024-08-08 12.16.13 AM.webm](https://github.com/user-attachments/assets/27f5fb27-8656-4934-8efb-a64ee51a551f)
+
+
 it's not complete though, just implemented the hero animation cus that's what caught my eye in the first place. But I'm leaving it on hold to go work on something else (kinda important).
 With this I learned a bit of how [`WAAPI`](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API) works...pretty interesting stuff. Will surely make time to look at it closely.
 
