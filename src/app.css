@@ -1,0 +1,24 @@
+/* @import url("https://www.spoiledchild.com/static/version1722327433/frontend/SpoiledChild/default/en_US/fonts/Maison/MaisonNeue-Medium.woff2"); */
+/* @import url("https://www.spoiledchild.com/static/version1722327433/frontend/SpoiledChild/default/en_US/fonts/Maison/MaisonNeue-Demi.woff2"); */
+/* @import url("https://www.spoiledchild.com/static/version1722327433/frontend/SpoiledChild/default/en_US/fonts/icomoon/fonts/icomoon.ttf"); */
+
+@font-face{
+    font-family: "Maison Neue";
+    /* src: url("https://www.spoiledchild.com/static/version1722327433/frontend/SpoiledChild/default/en_US/fonts/Maison/MaisonNeue-Book.woff") format("woff"); */
+    src: url("fonts/MaisonNeue-Book.woff") format("woff");
+}
+
+@font-face{
+    font-family: "Media Sans";
+    src: url("fonts/MediaSansCondensedWeb-Regular.woff2") format("woff");
+    font-weight: 200;
+}
+@font-face{
+    font-family: "Media Sans";
+    src: url("fonts/MediaSansCondensedWeb-Bold.woff") format("woff");
+    font-weight: 700;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
